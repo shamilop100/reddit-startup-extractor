@@ -1,0 +1,4 @@
+praw
+requests
+sqlite3
+logging
